@@ -10,6 +10,7 @@
 9. All the Stars - Kendrick Lamar, SZA
 10. Odo - Ado
 11. alone - marshmello
+12. paparazzi - Lady Gaga
 
 ------------------------------------------
 # Attracting Contributors

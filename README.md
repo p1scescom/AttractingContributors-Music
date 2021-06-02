@@ -11,6 +11,7 @@
 10. Odo - Ado
 11. alone - marshmello
 12. paparazzi - Lady Gaga
+13. Summer in Kagome - Sato Hitomi
 
 ------------------------------------------
 # Attracting Contributors

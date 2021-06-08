@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 8. Armageddon  
 9. Midsummer
 10. Solanin
+11. Doraemon

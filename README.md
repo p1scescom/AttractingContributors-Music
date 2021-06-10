@@ -32,5 +32,7 @@ Please write them down below :D
 7. Sagimaru-kun
 8. Katsue
 9. yukimaru
-10. Tolucky Hanshin
+10. Juratic
+11. Tolucky Hanshin
+
 

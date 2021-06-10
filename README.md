@@ -33,3 +33,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 10. Solanin
 11. Doraemon
 12. Purikyua
+13. Akira

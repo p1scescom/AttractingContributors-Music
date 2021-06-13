@@ -28,6 +28,7 @@ Goal - I want contributors to help me list some favorite musics.
 7. Delusion of Grandeur / 細美武士
 8. 長途夜車 / 滅火器(Fire EX.)
 9. Uptown Girl / Billy Joel
-10. うっせーわ/Ado
+10. うっせーわ/ Ado
 11. タイトロープ / ASIAN KUNG-FU GENERATION
-12. To Be With You / Mr.Big
+12. 空の青さを知る人よ / あいみょん
+13. To Be With You / Mr.Big

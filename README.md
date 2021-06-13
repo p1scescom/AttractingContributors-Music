@@ -22,4 +22,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of favorite kind of Sushi
 1. Octopus
-2. Ikura
+2. Tuna
+3. Ikura

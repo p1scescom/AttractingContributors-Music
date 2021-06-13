@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. Octopus
 2. Tuna
 3. Ikura
+4. サーモン

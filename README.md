@@ -10,7 +10,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 
 # Requirements
 To complete the assignment, please do the following:
-1. Fork this project and then rename the title to your hobby. 
+1. Fork this project and then rename the title to your hobby.
 2. Announce the new project and try to attract other members.
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
@@ -20,4 +20,10 @@ Goal - I want contributors to help me list some favorite dajare.
 
 # List of dajare(Japanese or English)
 0. ふとんがふっとんだ
-1. 家事の舵取り
+1. アルミ缶の上にあるみかん
+2. アニソンショーで兄損傷
+3. 佐賀市にあるかないか、探しに歩かないか？
+4. 私たちから渡した力
+5. 電話に誰もテレフォン
+6. drag on dragon
+7. 家事の舵取り

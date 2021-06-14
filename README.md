@@ -20,3 +20,4 @@ Goal - I want contributors to help me list some favorite dajare.
 
 # List of dajare(Japanese or English)
 0. ふとんがふっとんだ
+1. 家事の舵取り
